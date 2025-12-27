@@ -1,7 +1,6 @@
 from llama_cpp import Llama
 
-MODEL_PATH = r"E:\SecurePrompt\models\qwen2.5-1.5b-instruct-q4_k_m.gguf"
-
+MODEL_PATH = r"paste the model path here"
 _llm = None
 
 
@@ -19,3 +18,4 @@ def get_llm():
         )
         print("✅ Model loaded")
     return _llm
+
