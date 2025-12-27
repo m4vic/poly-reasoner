@@ -1,5 +1,5 @@
 # Model configuration
-MODEL_PATH = r"E:\SecurePrompt\models\mistral-7b-instruct-v0.2.Q4_K_M.gguf"
+MODEL_PATH = r"paste the model path here"
 MODEL_CONFIG = {
     "n_ctx": 4096,
     "n_threads": 6,
@@ -40,4 +40,5 @@ WEIGHT_RULES = [
 # Routing thresholds
 RELEVANCE_THRESHOLD = 0.4  # Min score to activate an agent
 COMPLEXITY_THRESHOLD = 5   # Word count below = simple chat
+
 CONFIDENCE_THRESHOLD = 0.7  # Min confidence to show result
