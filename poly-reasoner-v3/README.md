@@ -180,6 +180,6 @@ polyreasoner/
 - 12GB+ VRAM (for GPU inference)
 - Or 16GB+ RAM (for CPU inference)
 
-## License
 
-MIT
+
+
