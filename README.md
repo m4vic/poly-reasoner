@@ -8,8 +8,7 @@ Polyreasoner does **not** make decisions for you.
 It helps you think better before making them.
 
 ## ℹ️ Note
-
-### This project explores system design and implementation patterns using AI-assisted development.
+This project explores system design and implementation patterns using AI-assisted development.
 It prioritizes clarity of architecture and ideas over production guarantees.
 
 ---
