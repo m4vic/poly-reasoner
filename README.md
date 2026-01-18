@@ -1,4 +1,37 @@
-# Polyreasoner
+# PolyReasoner
+
+⚠️ **DEMO PROJECT**
+
+Multi-perspective AI decision analysis system.
+
+**Status:** Proof of concept • Educational demo
+
+## What This Does
+
+Analyzes ideas from multiple independent perspectives:
+- Security implications
+- Business value
+- Technical feasibility
+- Long-term impact
+
+## Purpose
+
+Built as a demonstration for PromptShield architecture - showing how multiple AI agents can collaborate with defense layers between them.
+
+## Limitations
+
+- Demo quality only
+- Not optimized
+- Limited production use
+
+## Value
+
+Shows practical multi-agent architecture patterns. Useful reference for similar systems.
+
+---
+
+**Part of Neural Alchemy Labs experiments.**
+
 
 Polyreasoner is an idea evaluation and decision-support system that analyzes existing ideas from multiple independent perspectives.
 
